@@ -1,3 +1,3 @@
-# Hello World
-This is the YMU
-This is not NTU
+# my repo
+
+Hello <3
